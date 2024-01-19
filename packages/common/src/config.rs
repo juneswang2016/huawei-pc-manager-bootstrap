@@ -15,10 +15,10 @@ pub struct Config {
 impl Default for Config {
     fn default() -> Self {
         Self {
-            manufacturer: "HUAWEI".to_string(),
-            product_name: "HKD-WXX".to_string(),
-            version: "1.0".to_string(),
-            sn: "5EKPM18320000397".to_string(),
+            manufacturer: "HONOR".to_string(),
+            product_name: "KPL-W0X".to_string(),
+            version: "1.19".to_string(),
+            sn: "HPRPM18C25001070".to_string(),
             sku: "C233".to_string(),
         }
     }
